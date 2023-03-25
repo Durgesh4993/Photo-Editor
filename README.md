@@ -4,7 +4,7 @@ This photo editing application is one of those elegantly powerful PHP project id
 Using XAMPP, you’ll provide an array of tools for users to draw whatever they want! At the center of this project is the ‘brush tool’, allowing users to select various colors and brush sizes to produce creative drawings.
 
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Some Images
 
 ![image](https://user-images.githubusercontent.com/98798977/227441629-9c8c93bd-e994-42d3-a50b-0785dd85cff2.png)
