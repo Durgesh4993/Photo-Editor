@@ -8,5 +8,6 @@
 		{"name":"beach","items":22,"type":"svg"},
 		{"name":"animals","items":10,"type":"png"},
 		{"name":"clouds","items":15,"type":"png","darkbg":true}
+		
 	]
 }
