@@ -48,7 +48,6 @@ gulp.task('integrate-less', function () {
         .pipe(browserSync.reload({stream:true}));
 });
 
-
 // Concatenate & Minify JS
 gulp.task('scripts', function() {
     return gulp.src([
