@@ -2,7 +2,6 @@
     'use strict';
 
     var document = window.document, Pixie, _pixie, instance;
-
     Pixie = function() {
         _pixie.start();
         instance = {
