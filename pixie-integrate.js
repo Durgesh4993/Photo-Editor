@@ -18,6 +18,7 @@
             getParams: function() { return _pixie.params },
             setOptions: function(options) { _pixie.setOptions(options); return this }
         };
+        
 
         return instance;
     };
