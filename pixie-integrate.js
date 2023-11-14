@@ -84,6 +84,7 @@
                 };
             }
 
+            
             var data = script.dataset;
 
             if (typeof data.path !== 'undefined') {
