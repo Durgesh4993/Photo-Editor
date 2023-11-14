@@ -6,8 +6,6 @@
     Pixie = function() {
 
         _pixie.start();
-        
-
         instance = {
             save: function(format, quality) { _pixie.save(format, quality); return this },
             getService: function(name) { return _pixie.getService(name); },
