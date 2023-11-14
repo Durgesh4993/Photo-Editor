@@ -99,6 +99,7 @@
             }
         },
 
+        
         /**
          * Automatically open images in editor on click within passed in container or whole page.
          *
