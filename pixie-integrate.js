@@ -10,6 +10,7 @@
 
         instance = {
             save: function(format, quality) { _pixie.save(format, quality); return this },
+            
             getService: function(name) { return _pixie.getService(name); },
             //start: function(options) { _pixie.start(options); return this },
             close: function() { _pixie.close(); return this },
