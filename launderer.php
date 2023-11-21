@@ -9,7 +9,6 @@ if (isset($_POST['url'])) {
 		curl_setopt($handle, CURLOPT_URL, $url);
 		curl_setopt($handle, CURLOPT_RETURNTRANSFER, 1);
 		curl_setopt($handle, CURLOPT_SSL_VERIFYPEER, false);
-
 		$data = curl_exec($handle);
 		curl_close($handle);
     } else {
