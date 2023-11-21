@@ -2,8 +2,7 @@
     'use strict';
 
     var document = window.document, Pixie, _pixie, instance;
-    Pixie = function() {
-        
+    Pixie = function() { 
         _pixie.start();
         instance = {
             save: function(format, quality) { _pixie.save(format, quality); return this },
