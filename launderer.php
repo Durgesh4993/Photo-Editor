@@ -1,6 +1,5 @@
 <?php
 
-
 if (isset($_POST['url'])) {
     $url = $_POST['url'];
     $mime = pathinfo($url, PATHINFO_EXTENSION);
