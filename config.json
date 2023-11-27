@@ -1,5 +1,6 @@
 {
 	"stickers": [
+		
 		{"name":"bubbles","items":104,"type":"png"},
 		{"name":"stars","items":6,"type":"png","darkbg":true},
 		{"name":"transportation","items":22,"type":"svg"},
