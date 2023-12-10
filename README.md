@@ -11,6 +11,10 @@ Using XAMPP, you’ll provide an array of tools for users to draw whatever they 
 - jQuery
 - PHP etc.
 
+# Hosted Link
+
+<link src="durgesh4993.github.io/Photo-Editor/">Click Here</link>
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Some Images
