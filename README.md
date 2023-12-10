@@ -13,7 +13,7 @@ Using XAMPP, you’ll provide an array of tools for users to draw whatever they 
 
 # Hosted Link
 
-<link src="https://durgesh4993.github.io/Photo-Editor/">Click Here</link>
+* )  https://durgesh4993.github.io/Photo-Editor/
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
