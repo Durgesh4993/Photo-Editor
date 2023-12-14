@@ -1,0 +1,30 @@
+{
+  "name": "emitter-steward",
+  "version": "0.0.1",
+  "description": "Cycle & reset allowed emitters",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shakyShane/emitter-steward"
+  },
+  "keywords": [
+    "emitter",
+    "steward"
+  ],
+  "author": "Shane Osbourne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shakyShane/emitter-steward/issues"
+  },
+  "homepage": "https://github.com/shakyShane/emitter-steward",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "sinon": "^1.9.1",
+    "mocha": "^1.18.2",
+    "gulp-jshint": "^1.5.5",
+    "gulp": "^3.6.2"
+  }
+}
