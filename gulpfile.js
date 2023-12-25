@@ -13,6 +13,7 @@ var path = require('path');
 var concat = require('gulp-concat');
 
 var uglify = require('gulp-uglify');
+
 var rename = require('gulp-rename');
 var sourcemaps = require('gulp-sourcemaps');
 var browserSync = require('browser-sync');
