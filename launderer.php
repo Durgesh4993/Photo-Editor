@@ -11,6 +11,7 @@ if (isset($_POST['url'])) {
 		curl_setopt($handle, CURLOPT_SSL_VERIFYPEER, false);
 		$data = curl_exec($handle);
 		curl_close($handle);
+	    
     } else {
     	$data = file_get_contents($url);
     }
