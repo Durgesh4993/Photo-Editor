@@ -15,7 +15,6 @@ if (isset($_POST['url'])) {
     } else {
     	$data = file_get_contents($url);
     }
-	
 
     $imageData = base64_encode($data);
     $formatted = 'data: '.$mime.';base64,'.$imageData;
